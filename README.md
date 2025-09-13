@@ -7,3 +7,5 @@ unity-demo	游戏Demo
 土豆英雄 演示视频 ：https://www.bilibili.com/video/BV1qapEzXEr1/
 
 古堡寻踪 演示视频 ：https://www.bilibili.com/video/BV17jpHzhE8q/
+
+下载大文件需要使用Git LFS，安装成功后使用git lfs clone来下载文件。
