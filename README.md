@@ -16,10 +16,17 @@ unity-demo	游戏Demo
 
 提示：
 git init #创建本地仓库环境
+
 git lfs install #安装大文件上传应用
+
 git lfs track * #追踪要上传的大文件，*表示路径下的所有文件
 
+
 git add * #添加要上传的文件
+
 git commit -m "first commit" #添加属性文件上传的说明
+
 git remote add origin [github地址] #SSH建立本地和Github仓库的链接
+
 git push origin master #上传属性文件
+
